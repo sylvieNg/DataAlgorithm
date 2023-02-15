@@ -1,0 +1,17 @@
+O:\Source\Repos\Week2\SimpleApp1\bin\Debug\net6.0-windows\SimpleApp1.exe
+O:\Source\Repos\Week2\SimpleApp1\bin\Debug\net6.0-windows\SimpleApp1.deps.json
+O:\Source\Repos\Week2\SimpleApp1\bin\Debug\net6.0-windows\SimpleApp1.runtimeconfig.json
+O:\Source\Repos\Week2\SimpleApp1\bin\Debug\net6.0-windows\SimpleApp1.dll
+O:\Source\Repos\Week2\SimpleApp1\bin\Debug\net6.0-windows\SimpleApp1.pdb
+O:\Source\Repos\Week2\SimpleApp1\obj\Debug\net6.0-windows\SimpleApp1.csproj.AssemblyReference.cache
+O:\Source\Repos\Week2\SimpleApp1\obj\Debug\net6.0-windows\SimpleApp1.Form1.resources
+O:\Source\Repos\Week2\SimpleApp1\obj\Debug\net6.0-windows\SimpleApp1.csproj.GenerateResource.cache
+O:\Source\Repos\Week2\SimpleApp1\obj\Debug\net6.0-windows\SimpleApp1.GeneratedMSBuildEditorConfig.editorconfig
+O:\Source\Repos\Week2\SimpleApp1\obj\Debug\net6.0-windows\SimpleApp1.AssemblyInfoInputs.cache
+O:\Source\Repos\Week2\SimpleApp1\obj\Debug\net6.0-windows\SimpleApp1.AssemblyInfo.cs
+O:\Source\Repos\Week2\SimpleApp1\obj\Debug\net6.0-windows\SimpleApp1.csproj.CoreCompileInputs.cache
+O:\Source\Repos\Week2\SimpleApp1\obj\Debug\net6.0-windows\SimpleApp1.dll
+O:\Source\Repos\Week2\SimpleApp1\obj\Debug\net6.0-windows\refint\SimpleApp1.dll
+O:\Source\Repos\Week2\SimpleApp1\obj\Debug\net6.0-windows\SimpleApp1.pdb
+O:\Source\Repos\Week2\SimpleApp1\obj\Debug\net6.0-windows\SimpleApp1.genruntimeconfig.cache
+O:\Source\Repos\Week2\SimpleApp1\obj\Debug\net6.0-windows\ref\SimpleApp1.dll

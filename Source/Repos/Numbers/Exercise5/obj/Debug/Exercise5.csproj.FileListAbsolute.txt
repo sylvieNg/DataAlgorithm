@@ -1,0 +1,8 @@
+C:\Users\22457110\OneDrive - MMU\Source\Repos\Numbers\Exercise5\obj\Debug\Exercise5.csproj.AssemblyReference.cache
+C:\Users\22457110\OneDrive - MMU\Source\Repos\Numbers\Exercise5\obj\Debug\Exercise5.csproj.SuggestedBindingRedirects.cache
+C:\Users\22457110\OneDrive - MMU\Source\Repos\Numbers\Exercise5\obj\Debug\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\22457110\OneDrive - MMU\Source\Repos\Numbers\Exercise5\bin\Debug\Exercise5.exe.config
+C:\Users\22457110\OneDrive - MMU\Source\Repos\Numbers\Exercise5\bin\Debug\Exercise5.exe
+C:\Users\22457110\OneDrive - MMU\Source\Repos\Numbers\Exercise5\bin\Debug\Exercise5.pdb
+C:\Users\22457110\OneDrive - MMU\Source\Repos\Numbers\Exercise5\obj\Debug\Exercise5.exe
+C:\Users\22457110\OneDrive - MMU\Source\Repos\Numbers\Exercise5\obj\Debug\Exercise5.pdb

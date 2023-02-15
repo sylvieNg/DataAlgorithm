@@ -1,0 +1,16 @@
+C:\Users\22457110\Source\Repos\Numbers\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\22457110\Source\Repos\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\22457110\Source\Repos\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\22457110\Source\Repos\Numbers\Numbers\obj\Debug\Numbers.csproj.AssemblyReference.cache
+C:\Users\22457110\Source\Repos\Numbers\Numbers\obj\Debug\Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\22457110\Source\Repos\Numbers\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\22457110\Source\Repos\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\22457110\Source\Repos\Numbers\Numbers\obj\Debug\Numbers.pdb
+C:\Users\22457110\OneDrive - MMU\Source\Repos\Numbers\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\22457110\OneDrive - MMU\Source\Repos\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\22457110\OneDrive - MMU\Source\Repos\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\22457110\OneDrive - MMU\Source\Repos\Numbers\Numbers\obj\Debug\Numbers.csproj.AssemblyReference.cache
+C:\Users\22457110\OneDrive - MMU\Source\Repos\Numbers\Numbers\obj\Debug\Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\22457110\OneDrive - MMU\Source\Repos\Numbers\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\22457110\OneDrive - MMU\Source\Repos\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\22457110\OneDrive - MMU\Source\Repos\Numbers\Numbers\obj\Debug\Numbers.pdb

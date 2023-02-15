@@ -1,0 +1,8 @@
+D:\DataAlgorithm\Source\Repos\Week2\Exercise9\bin\Debug\Exercise9.exe.config
+D:\DataAlgorithm\Source\Repos\Week2\Exercise9\bin\Debug\Exercise9.exe
+D:\DataAlgorithm\Source\Repos\Week2\Exercise9\bin\Debug\Exercise9.pdb
+D:\DataAlgorithm\Source\Repos\Week2\Exercise9\obj\Debug\Exercise9.csproj.AssemblyReference.cache
+D:\DataAlgorithm\Source\Repos\Week2\Exercise9\obj\Debug\Exercise9.csproj.SuggestedBindingRedirects.cache
+D:\DataAlgorithm\Source\Repos\Week2\Exercise9\obj\Debug\Exercise9.csproj.CoreCompileInputs.cache
+D:\DataAlgorithm\Source\Repos\Week2\Exercise9\obj\Debug\Exercise9.exe
+D:\DataAlgorithm\Source\Repos\Week2\Exercise9\obj\Debug\Exercise9.pdb

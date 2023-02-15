@@ -1,0 +1,11 @@
+D:\DataAlgorithm\Source\Repos\Week2\Exercise4\bin\Debug\Exercise4.exe.config
+D:\DataAlgorithm\Source\Repos\Week2\Exercise4\bin\Debug\Exercise4.exe
+D:\DataAlgorithm\Source\Repos\Week2\Exercise4\bin\Debug\Exercise4.pdb
+D:\DataAlgorithm\Source\Repos\Week2\Exercise4\obj\Debug\Exercise4.csproj.AssemblyReference.cache
+D:\DataAlgorithm\Source\Repos\Week2\Exercise4\obj\Debug\Exercise4.csproj.SuggestedBindingRedirects.cache
+D:\DataAlgorithm\Source\Repos\Week2\Exercise4\obj\Debug\Exercise4.Form1.resources
+D:\DataAlgorithm\Source\Repos\Week2\Exercise4\obj\Debug\Exercise4.Properties.Resources.resources
+D:\DataAlgorithm\Source\Repos\Week2\Exercise4\obj\Debug\Exercise4.csproj.GenerateResource.cache
+D:\DataAlgorithm\Source\Repos\Week2\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+D:\DataAlgorithm\Source\Repos\Week2\Exercise4\obj\Debug\Exercise4.exe
+D:\DataAlgorithm\Source\Repos\Week2\Exercise4\obj\Debug\Exercise4.pdb
