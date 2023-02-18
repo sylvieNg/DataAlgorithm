@@ -1,0 +1,8 @@
+O:\Source\Repos\Week3\Week3\bin\Debug\Week3.exe.config
+O:\Source\Repos\Week3\Week3\bin\Debug\Week3.exe
+O:\Source\Repos\Week3\Week3\bin\Debug\Week3.pdb
+O:\Source\Repos\Week3\Week3\obj\Debug\Week3.csproj.AssemblyReference.cache
+O:\Source\Repos\Week3\Week3\obj\Debug\Week3.csproj.SuggestedBindingRedirects.cache
+O:\Source\Repos\Week3\Week3\obj\Debug\Week3.csproj.CoreCompileInputs.cache
+O:\Source\Repos\Week3\Week3\obj\Debug\Week3.exe
+O:\Source\Repos\Week3\Week3\obj\Debug\Week3.pdb

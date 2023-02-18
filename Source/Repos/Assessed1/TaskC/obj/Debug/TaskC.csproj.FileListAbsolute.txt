@@ -1,0 +1,11 @@
+D:\DataAlgorithm\Source\Repos\Assessed1\TaskC\bin\Debug\TaskC.exe.config
+D:\DataAlgorithm\Source\Repos\Assessed1\TaskC\bin\Debug\TaskC.exe
+D:\DataAlgorithm\Source\Repos\Assessed1\TaskC\bin\Debug\TaskC.pdb
+D:\DataAlgorithm\Source\Repos\Assessed1\TaskC\obj\Debug\TaskC.csproj.AssemblyReference.cache
+D:\DataAlgorithm\Source\Repos\Assessed1\TaskC\obj\Debug\TaskC.csproj.SuggestedBindingRedirects.cache
+D:\DataAlgorithm\Source\Repos\Assessed1\TaskC\obj\Debug\TaskC.Form1.resources
+D:\DataAlgorithm\Source\Repos\Assessed1\TaskC\obj\Debug\TaskC.Properties.Resources.resources
+D:\DataAlgorithm\Source\Repos\Assessed1\TaskC\obj\Debug\TaskC.csproj.GenerateResource.cache
+D:\DataAlgorithm\Source\Repos\Assessed1\TaskC\obj\Debug\TaskC.csproj.CoreCompileInputs.cache
+D:\DataAlgorithm\Source\Repos\Assessed1\TaskC\obj\Debug\TaskC.exe
+D:\DataAlgorithm\Source\Repos\Assessed1\TaskC\obj\Debug\TaskC.pdb
