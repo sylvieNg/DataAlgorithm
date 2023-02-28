@@ -7,13 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace TaskC
 {
     public partial class Form1 : Form
     {
-        private int nameSize = 10;
-        private int counter = 0;
+        Customer myCustomers = new Customer();
         public Form1()
         {
             InitializeComponent();
@@ -23,12 +23,12 @@ namespace TaskC
         {
             if ((!string.IsNullOrWhiteSpace(textBox1.Text) && !listBox1.Items.Contains(textBox1.Text)) && (!string.IsNullOrWhiteSpace(textBox2.Text)))
             {
-                if (counter < nameSize)
+                if (!myCustomers.IsFull())
                 {
+                    myCustomers.Enqueue(textBox1.Text, Convert.ToInt32(textBox2.Text));
                     listBox1.Items.Add(textBox1.Text);
                     listBox2.Items.Add(textBox2.Text);
-                    label3.Text = (counter + 1).ToString();
-                    counter++;
+                    label3.Text = myCustomers.totalCustomers().ToString();
                 }
                 else
                 {
@@ -37,6 +37,42 @@ namespace TaskC
                 //Clear the text box value
                 textBox1.Text = null;
                 textBox2.Text = null;
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (!myCustomers.IsEmpty())
+            {
+                (string name, int age) customer = myCustomers.Dequeue();
+                listBox1.Items.Remove(customer.name);
+                listBox2.Items.Remove(customer.age.ToString());
+                label3.Text = myCustomers.totalCustomers().ToString();
+                label6.Text = "Customer - " + customer.name + " ( age: " + customer.age + ") has been deleted.";
+            }
+            else
+            {
+                MessageBox.Show("The list is empty", "Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (!string.IsNullOrWhiteSpace(textBox3.Text))
+            {
+                int kElem = Convert.ToInt32(textBox3.Text);
+                if (kElem > 0)
+                {
+                    listBox1.Items.Clear();
+                    listBox2.Items.Clear();
+                    myCustomers.Reverse(kElem);
+                }
+                for (int i = 0; i < myCustomers.totalCustomers(); i++)
+                {
+                    (string name, string age) display = myCustomers.Display(i);
+                    listBox1.Items.Add(display.name);
+                    listBox2.Items.Add(display.age);
+                }
             }
         }
     }
