@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,8 +16,9 @@ namespace TaskB
 {
     public partial class Form1 : Form
     {
-        private int nameSize = 20;
-        private int counter = 0;
+        //private int nameSize = 20;
+        //private int counter = 0;
+        Customer myCustomers = new Customer();
         public Form1()
         {
             InitializeComponent();
@@ -26,11 +28,12 @@ namespace TaskB
         {
             if (!string.IsNullOrWhiteSpace(textBox1.Text) && !listBox1.Items.Contains(textBox1.Text))
             {
-                if (counter < nameSize)
+                if (!myCustomers.IsFull())
                 {
+                    myCustomers.Enqueue(textBox1.Text);
                     listBox1.Items.Add(textBox1.Text);
-                    label3.Text = (counter + 1).ToString();
-                    counter++;
+                    label3.Text = myCustomers.totalCustomers().ToString(); //(counter + 1).ToString();
+                    //counter++;
                 }
                 else
                 {
@@ -40,6 +43,21 @@ namespace TaskB
                 textBox1.Text = null;
             }
                 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (!myCustomers.IsEmpty())
+            {
+                string name = myCustomers.Dequeue();
+                listBox1.Items.Remove(name);
+                label3.Text = myCustomers.totalCustomers().ToString();
+                label4.Text = "Customer - " + name + " has been deleted.";
+            }
+            else
+            {
+                MessageBox.Show("The list is empty", "Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
         }
     }
 }
