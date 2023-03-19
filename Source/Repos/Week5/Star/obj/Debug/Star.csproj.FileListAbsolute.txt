@@ -1,0 +1,8 @@
+O:\Source\Repos\Week5\Star\bin\Debug\Star.exe.config
+O:\Source\Repos\Week5\Star\bin\Debug\Star.exe
+O:\Source\Repos\Week5\Star\bin\Debug\Star.pdb
+O:\Source\Repos\Week5\Star\obj\Debug\Star.csproj.AssemblyReference.cache
+O:\Source\Repos\Week5\Star\obj\Debug\Star.csproj.SuggestedBindingRedirects.cache
+O:\Source\Repos\Week5\Star\obj\Debug\Star.csproj.CoreCompileInputs.cache
+O:\Source\Repos\Week5\Star\obj\Debug\Star.exe
+O:\Source\Repos\Week5\Star\obj\Debug\Star.pdb

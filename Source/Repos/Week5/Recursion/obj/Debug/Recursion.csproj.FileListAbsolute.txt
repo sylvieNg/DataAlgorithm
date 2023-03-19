@@ -1,0 +1,16 @@
+O:\Source\Repos\Week5\Recursion\bin\Debug\Recursion.exe.config
+O:\Source\Repos\Week5\Recursion\bin\Debug\Recursion.exe
+O:\Source\Repos\Week5\Recursion\bin\Debug\Recursion.pdb
+O:\Source\Repos\Week5\Recursion\obj\Debug\Recursion.csproj.AssemblyReference.cache
+O:\Source\Repos\Week5\Recursion\obj\Debug\Recursion.csproj.SuggestedBindingRedirects.cache
+O:\Source\Repos\Week5\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+O:\Source\Repos\Week5\Recursion\obj\Debug\Recursion.exe
+O:\Source\Repos\Week5\Recursion\obj\Debug\Recursion.pdb
+D:\DataAlgorithm\Source\Repos\Week5\Recursion\bin\Debug\Recursion.exe.config
+D:\DataAlgorithm\Source\Repos\Week5\Recursion\bin\Debug\Recursion.exe
+D:\DataAlgorithm\Source\Repos\Week5\Recursion\bin\Debug\Recursion.pdb
+D:\DataAlgorithm\Source\Repos\Week5\Recursion\obj\Debug\Recursion.csproj.AssemblyReference.cache
+D:\DataAlgorithm\Source\Repos\Week5\Recursion\obj\Debug\Recursion.csproj.SuggestedBindingRedirects.cache
+D:\DataAlgorithm\Source\Repos\Week5\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+D:\DataAlgorithm\Source\Repos\Week5\Recursion\obj\Debug\Recursion.exe
+D:\DataAlgorithm\Source\Repos\Week5\Recursion\obj\Debug\Recursion.pdb

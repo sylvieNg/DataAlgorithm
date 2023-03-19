@@ -1,0 +1,8 @@
+D:\DataAlgorithm\Source\Repos\Assessed1\Exercise2-TaskA\bin\Debug\Exercise2-TaskA.exe.config
+D:\DataAlgorithm\Source\Repos\Assessed1\Exercise2-TaskA\bin\Debug\Exercise2-TaskA.exe
+D:\DataAlgorithm\Source\Repos\Assessed1\Exercise2-TaskA\bin\Debug\Exercise2-TaskA.pdb
+D:\DataAlgorithm\Source\Repos\Assessed1\Exercise2-TaskA\obj\Debug\Exercise2-TaskA.csproj.AssemblyReference.cache
+D:\DataAlgorithm\Source\Repos\Assessed1\Exercise2-TaskA\obj\Debug\Exercise2-TaskA.csproj.SuggestedBindingRedirects.cache
+D:\DataAlgorithm\Source\Repos\Assessed1\Exercise2-TaskA\obj\Debug\Exercise2-TaskA.csproj.CoreCompileInputs.cache
+D:\DataAlgorithm\Source\Repos\Assessed1\Exercise2-TaskA\obj\Debug\Exercise2-TaskA.exe
+D:\DataAlgorithm\Source\Repos\Assessed1\Exercise2-TaskA\obj\Debug\Exercise2-TaskA.pdb

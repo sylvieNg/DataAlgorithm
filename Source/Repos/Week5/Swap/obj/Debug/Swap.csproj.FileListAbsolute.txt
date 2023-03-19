@@ -1,0 +1,16 @@
+O:\Source\Repos\Week5\Swap\bin\Debug\Swap.exe.config
+O:\Source\Repos\Week5\Swap\bin\Debug\Swap.exe
+O:\Source\Repos\Week5\Swap\bin\Debug\Swap.pdb
+O:\Source\Repos\Week5\Swap\obj\Debug\Swap.csproj.AssemblyReference.cache
+O:\Source\Repos\Week5\Swap\obj\Debug\Swap.csproj.SuggestedBindingRedirects.cache
+O:\Source\Repos\Week5\Swap\obj\Debug\Swap.csproj.CoreCompileInputs.cache
+O:\Source\Repos\Week5\Swap\obj\Debug\Swap.exe
+O:\Source\Repos\Week5\Swap\obj\Debug\Swap.pdb
+D:\DataAlgorithm\Source\Repos\Week5\Swap\bin\Debug\Swap.exe.config
+D:\DataAlgorithm\Source\Repos\Week5\Swap\bin\Debug\Swap.exe
+D:\DataAlgorithm\Source\Repos\Week5\Swap\bin\Debug\Swap.pdb
+D:\DataAlgorithm\Source\Repos\Week5\Swap\obj\Debug\Swap.csproj.AssemblyReference.cache
+D:\DataAlgorithm\Source\Repos\Week5\Swap\obj\Debug\Swap.csproj.SuggestedBindingRedirects.cache
+D:\DataAlgorithm\Source\Repos\Week5\Swap\obj\Debug\Swap.csproj.CoreCompileInputs.cache
+D:\DataAlgorithm\Source\Repos\Week5\Swap\obj\Debug\Swap.exe
+D:\DataAlgorithm\Source\Repos\Week5\Swap\obj\Debug\Swap.pdb

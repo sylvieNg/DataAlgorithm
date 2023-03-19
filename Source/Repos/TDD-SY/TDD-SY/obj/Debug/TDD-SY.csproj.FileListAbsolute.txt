@@ -1,0 +1,15 @@
+D:\DataAlgorithm\Source\Repos\TDD-SY\TDD-SY\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DataAlgorithm\Source\Repos\TDD-SY\TDD-SY\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DataAlgorithm\Source\Repos\TDD-SY\TDD-SY\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DataAlgorithm\Source\Repos\TDD-SY\TDD-SY\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\DataAlgorithm\Source\Repos\TDD-SY\TDD-SY\bin\Debug\TDD-SY.dll
+D:\DataAlgorithm\Source\Repos\TDD-SY\TDD-SY\bin\Debug\TDD-SY.pdb
+D:\DataAlgorithm\Source\Repos\TDD-SY\TDD-SY\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DataAlgorithm\Source\Repos\TDD-SY\TDD-SY\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DataAlgorithm\Source\Repos\TDD-SY\TDD-SY\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\DataAlgorithm\Source\Repos\TDD-SY\TDD-SY\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DataAlgorithm\Source\Repos\TDD-SY\TDD-SY\obj\Debug\TDD-SY.csproj.AssemblyReference.cache
+D:\DataAlgorithm\Source\Repos\TDD-SY\TDD-SY\obj\Debug\TDD-SY.csproj.CoreCompileInputs.cache
+D:\DataAlgorithm\Source\Repos\TDD-SY\TDD-SY\obj\Debug\TDD-SY.csproj.CopyComplete
+D:\DataAlgorithm\Source\Repos\TDD-SY\TDD-SY\obj\Debug\TDD-SY.dll
+D:\DataAlgorithm\Source\Repos\TDD-SY\TDD-SY\obj\Debug\TDD-SY.pdb

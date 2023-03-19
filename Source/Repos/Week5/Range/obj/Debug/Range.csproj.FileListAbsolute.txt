@@ -1,0 +1,8 @@
+O:\Source\Repos\Week5\Range\bin\Debug\Range.exe.config
+O:\Source\Repos\Week5\Range\bin\Debug\Range.exe
+O:\Source\Repos\Week5\Range\bin\Debug\Range.pdb
+O:\Source\Repos\Week5\Range\obj\Debug\Range.csproj.AssemblyReference.cache
+O:\Source\Repos\Week5\Range\obj\Debug\Range.csproj.SuggestedBindingRedirects.cache
+O:\Source\Repos\Week5\Range\obj\Debug\Range.csproj.CoreCompileInputs.cache
+O:\Source\Repos\Week5\Range\obj\Debug\Range.exe
+O:\Source\Repos\Week5\Range\obj\Debug\Range.pdb

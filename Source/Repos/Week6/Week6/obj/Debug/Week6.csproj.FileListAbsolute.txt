@@ -1,0 +1,16 @@
+C:\Users\22457110.AD\OneDrive - MMU\Source\Repos\Week6\Week6\bin\Debug\Week6.exe.config
+C:\Users\22457110.AD\OneDrive - MMU\Source\Repos\Week6\Week6\bin\Debug\Week6.exe
+C:\Users\22457110.AD\OneDrive - MMU\Source\Repos\Week6\Week6\bin\Debug\Week6.pdb
+C:\Users\22457110.AD\OneDrive - MMU\Source\Repos\Week6\Week6\obj\Debug\Week6.csproj.AssemblyReference.cache
+C:\Users\22457110.AD\OneDrive - MMU\Source\Repos\Week6\Week6\obj\Debug\Week6.csproj.SuggestedBindingRedirects.cache
+C:\Users\22457110.AD\OneDrive - MMU\Source\Repos\Week6\Week6\obj\Debug\Week6.csproj.CoreCompileInputs.cache
+C:\Users\22457110.AD\OneDrive - MMU\Source\Repos\Week6\Week6\obj\Debug\Week6.exe
+C:\Users\22457110.AD\OneDrive - MMU\Source\Repos\Week6\Week6\obj\Debug\Week6.pdb
+D:\DataAlgorithm\Source\Repos\Week6\Week6\bin\Debug\Week6.exe.config
+D:\DataAlgorithm\Source\Repos\Week6\Week6\bin\Debug\Week6.exe
+D:\DataAlgorithm\Source\Repos\Week6\Week6\bin\Debug\Week6.pdb
+D:\DataAlgorithm\Source\Repos\Week6\Week6\obj\Debug\Week6.csproj.AssemblyReference.cache
+D:\DataAlgorithm\Source\Repos\Week6\Week6\obj\Debug\Week6.csproj.SuggestedBindingRedirects.cache
+D:\DataAlgorithm\Source\Repos\Week6\Week6\obj\Debug\Week6.csproj.CoreCompileInputs.cache
+D:\DataAlgorithm\Source\Repos\Week6\Week6\obj\Debug\Week6.exe
+D:\DataAlgorithm\Source\Repos\Week6\Week6\obj\Debug\Week6.pdb

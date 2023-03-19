@@ -1,0 +1,16 @@
+O:\Source\Repos\Week5\Week5\bin\Debug\Week5.exe.config
+O:\Source\Repos\Week5\Week5\bin\Debug\Week5.exe
+O:\Source\Repos\Week5\Week5\bin\Debug\Week5.pdb
+O:\Source\Repos\Week5\Week5\obj\Debug\Week5.csproj.AssemblyReference.cache
+O:\Source\Repos\Week5\Week5\obj\Debug\Week5.csproj.SuggestedBindingRedirects.cache
+O:\Source\Repos\Week5\Week5\obj\Debug\Week5.csproj.CoreCompileInputs.cache
+O:\Source\Repos\Week5\Week5\obj\Debug\Week5.exe
+O:\Source\Repos\Week5\Week5\obj\Debug\Week5.pdb
+D:\DataAlgorithm\Source\Repos\Week5\Week5\bin\Debug\Week5.exe.config
+D:\DataAlgorithm\Source\Repos\Week5\Week5\bin\Debug\Week5.exe
+D:\DataAlgorithm\Source\Repos\Week5\Week5\bin\Debug\Week5.pdb
+D:\DataAlgorithm\Source\Repos\Week5\Week5\obj\Debug\Week5.csproj.AssemblyReference.cache
+D:\DataAlgorithm\Source\Repos\Week5\Week5\obj\Debug\Week5.csproj.SuggestedBindingRedirects.cache
+D:\DataAlgorithm\Source\Repos\Week5\Week5\obj\Debug\Week5.csproj.CoreCompileInputs.cache
+D:\DataAlgorithm\Source\Repos\Week5\Week5\obj\Debug\Week5.exe
+D:\DataAlgorithm\Source\Repos\Week5\Week5\obj\Debug\Week5.pdb

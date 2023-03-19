@@ -1,0 +1,8 @@
+D:\DataAlgorithm\Source\Repos\Assessed1\Assessed1\bin\Debug\Assessed1.exe.config
+D:\DataAlgorithm\Source\Repos\Assessed1\Assessed1\bin\Debug\Assessed1.exe
+D:\DataAlgorithm\Source\Repos\Assessed1\Assessed1\bin\Debug\Assessed1.pdb
+D:\DataAlgorithm\Source\Repos\Assessed1\Assessed1\obj\Debug\Assessed.csproj.AssemblyReference.cache
+D:\DataAlgorithm\Source\Repos\Assessed1\Assessed1\obj\Debug\Assessed.csproj.SuggestedBindingRedirects.cache
+D:\DataAlgorithm\Source\Repos\Assessed1\Assessed1\obj\Debug\Assessed.csproj.CoreCompileInputs.cache
+D:\DataAlgorithm\Source\Repos\Assessed1\Assessed1\obj\Debug\Assessed1.exe
+D:\DataAlgorithm\Source\Repos\Assessed1\Assessed1\obj\Debug\Assessed1.pdb

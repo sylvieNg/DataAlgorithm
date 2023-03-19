@@ -6,3 +6,11 @@ O:\Source\Repos\Week4\Exercise2\obj\Debug\Exercise2.csproj.SuggestedBindingRedir
 O:\Source\Repos\Week4\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
 O:\Source\Repos\Week4\Exercise2\obj\Debug\Exercise2.exe
 O:\Source\Repos\Week4\Exercise2\obj\Debug\Exercise2.pdb
+D:\DataAlgorithm\Source\Repos\Week4\Exercise2\bin\Debug\Exercise2.exe.config
+D:\DataAlgorithm\Source\Repos\Week4\Exercise2\bin\Debug\Exercise2.exe
+D:\DataAlgorithm\Source\Repos\Week4\Exercise2\bin\Debug\Exercise2.pdb
+D:\DataAlgorithm\Source\Repos\Week4\Exercise2\obj\Debug\Exercise2.csproj.AssemblyReference.cache
+D:\DataAlgorithm\Source\Repos\Week4\Exercise2\obj\Debug\Exercise2.csproj.SuggestedBindingRedirects.cache
+D:\DataAlgorithm\Source\Repos\Week4\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+D:\DataAlgorithm\Source\Repos\Week4\Exercise2\obj\Debug\Exercise2.exe
+D:\DataAlgorithm\Source\Repos\Week4\Exercise2\obj\Debug\Exercise2.pdb
