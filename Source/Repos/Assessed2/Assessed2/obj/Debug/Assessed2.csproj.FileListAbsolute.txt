@@ -1,8 +1,0 @@
-D:\DataAlgorithm\Source\Repos\Assessed2\Assessed2\bin\Debug\Assessed2.exe.config
-D:\DataAlgorithm\Source\Repos\Assessed2\Assessed2\bin\Debug\Assessed2.exe
-D:\DataAlgorithm\Source\Repos\Assessed2\Assessed2\bin\Debug\Assessed2.pdb
-D:\DataAlgorithm\Source\Repos\Assessed2\Assessed2\obj\Debug\Assessed2.csproj.AssemblyReference.cache
-D:\DataAlgorithm\Source\Repos\Assessed2\Assessed2\obj\Debug\Assessed2.csproj.SuggestedBindingRedirects.cache
-D:\DataAlgorithm\Source\Repos\Assessed2\Assessed2\obj\Debug\Assessed2.csproj.CoreCompileInputs.cache
-D:\DataAlgorithm\Source\Repos\Assessed2\Assessed2\obj\Debug\Assessed2.exe
-D:\DataAlgorithm\Source\Repos\Assessed2\Assessed2\obj\Debug\Assessed2.pdb

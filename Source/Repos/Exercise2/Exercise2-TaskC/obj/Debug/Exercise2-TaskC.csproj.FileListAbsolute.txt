@@ -1,0 +1,16 @@
+D:\DataAlgorithm\Source\Repos\Assessed1\Exercise2-TaskC\bin\Debug\Exercise2-TaskC.exe.config
+D:\DataAlgorithm\Source\Repos\Assessed1\Exercise2-TaskC\bin\Debug\Exercise2-TaskC.exe
+D:\DataAlgorithm\Source\Repos\Assessed1\Exercise2-TaskC\bin\Debug\Exercise2-TaskC.pdb
+D:\DataAlgorithm\Source\Repos\Assessed1\Exercise2-TaskC\obj\Debug\Exercise2-TaskC.csproj.AssemblyReference.cache
+D:\DataAlgorithm\Source\Repos\Assessed1\Exercise2-TaskC\obj\Debug\Exercise2-TaskC.csproj.SuggestedBindingRedirects.cache
+D:\DataAlgorithm\Source\Repos\Assessed1\Exercise2-TaskC\obj\Debug\Exercise2-TaskC.csproj.CoreCompileInputs.cache
+D:\DataAlgorithm\Source\Repos\Assessed1\Exercise2-TaskC\obj\Debug\Exercise2-TaskC.exe
+D:\DataAlgorithm\Source\Repos\Assessed1\Exercise2-TaskC\obj\Debug\Exercise2-TaskC.pdb
+D:\DataAlgorithm\Source\Repos\Assessed2\Exercise2-TaskC\bin\Debug\Exercise2-TaskC.exe.config
+D:\DataAlgorithm\Source\Repos\Assessed2\Exercise2-TaskC\bin\Debug\Exercise2-TaskC.exe
+D:\DataAlgorithm\Source\Repos\Assessed2\Exercise2-TaskC\bin\Debug\Exercise2-TaskC.pdb
+D:\DataAlgorithm\Source\Repos\Assessed2\Exercise2-TaskC\obj\Debug\Exercise2-TaskC.csproj.AssemblyReference.cache
+D:\DataAlgorithm\Source\Repos\Assessed2\Exercise2-TaskC\obj\Debug\Exercise2-TaskC.csproj.SuggestedBindingRedirects.cache
+D:\DataAlgorithm\Source\Repos\Assessed2\Exercise2-TaskC\obj\Debug\Exercise2-TaskC.csproj.CoreCompileInputs.cache
+D:\DataAlgorithm\Source\Repos\Assessed2\Exercise2-TaskC\obj\Debug\Exercise2-TaskC.exe
+D:\DataAlgorithm\Source\Repos\Assessed2\Exercise2-TaskC\obj\Debug\Exercise2-TaskC.pdb

@@ -1,0 +1,11 @@
+D:\DataAlgorithm\Source\Repos\Exercise3\Exercise3\bin\Debug\Exercise3.exe.config
+D:\DataAlgorithm\Source\Repos\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+D:\DataAlgorithm\Source\Repos\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+D:\DataAlgorithm\Source\Repos\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.AssemblyReference.cache
+D:\DataAlgorithm\Source\Repos\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.SuggestedBindingRedirects.cache
+D:\DataAlgorithm\Source\Repos\Exercise3\Exercise3\obj\Debug\Exercise3.Form1.resources
+D:\DataAlgorithm\Source\Repos\Exercise3\Exercise3\obj\Debug\Exercise3.Properties.Resources.resources
+D:\DataAlgorithm\Source\Repos\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.GenerateResource.cache
+D:\DataAlgorithm\Source\Repos\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+D:\DataAlgorithm\Source\Repos\Exercise3\Exercise3\obj\Debug\Exercise3.exe
+D:\DataAlgorithm\Source\Repos\Exercise3\Exercise3\obj\Debug\Exercise3.pdb
