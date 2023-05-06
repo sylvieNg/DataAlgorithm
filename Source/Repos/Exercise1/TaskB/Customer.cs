@@ -11,17 +11,17 @@ namespace TaskB
     {
         private readonly int maxsize = 20;
         private string[] customers;
-        private int head = 0;
+        private int head = 0; //indices
 
-        private int tail = 0;
-        private int customerNum;
+        private int tail = 0; //indices
+        private int customerNum; //counter
 
-        public Customer()
+        public Customer() //constructor
         {
             customers = new string[maxsize];
         }
 
-        public Customer(int size)
+        public Customer(int size) //constructor
         {
             maxsize = size;
             customers = new string[maxsize];

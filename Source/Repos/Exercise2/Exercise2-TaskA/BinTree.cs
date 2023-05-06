@@ -34,9 +34,9 @@ namespace Assessed2
             }
         }
 
-        public void PreOrder()  //starts recursive inOrder at root node
+        public void PreOrder()
         {
-            preOrder(root); //call recursive at the top of the tree
+            preOrder(root);
         }
 
         public void preOrder(Node tree)
@@ -49,9 +49,9 @@ namespace Assessed2
             }
         }
 
-        public void PostOrder()  //starts recursive inOrder at root node
+        public void PostOrder()
         {
-            postOrder(root); //call recursive at the top of the tree
+            postOrder(root);
         }
 
         public void postOrder(Node tree)

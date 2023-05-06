@@ -19,7 +19,7 @@ namespace TaskC
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void buttonEnter_Click(object sender, EventArgs e)
         {
             if ((!string.IsNullOrWhiteSpace(textBox1.Text) && !listBox1.Items.Contains(textBox1.Text)) && (!string.IsNullOrWhiteSpace(textBox2.Text)))
             {
@@ -40,7 +40,7 @@ namespace TaskC
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void buttonDelete_Click(object sender, EventArgs e)
         {
             if (!myCustomers.IsEmpty())
             {
@@ -56,17 +56,19 @@ namespace TaskC
             }
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void buttonReverse_Click(object sender, EventArgs e)
         {
             if (!string.IsNullOrWhiteSpace(textBox3.Text))
             {
                 int kElem = Convert.ToInt32(textBox3.Text);
                 if (kElem > 0)
                 {
+                    //cleat the list box and do reverse
                     listBox1.Items.Clear();
                     listBox2.Items.Clear();
                     myCustomers.Reverse(kElem);
                 }
+                //display the customer information
                 for (int i = 0; i < myCustomers.totalCustomers(); i++)
                 {
                     (string name, string age) display = myCustomers.Display(i);

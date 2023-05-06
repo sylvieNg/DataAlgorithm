@@ -87,7 +87,7 @@ namespace Exercise3
             listBoxStudent.Items.Clear();
             foreach (KeyValuePair<int, Student> student in universityDic)
             {
-                if (student.Value.Name == name)
+                if (student.Value.Name.ToUpper() == name.ToUpper())
                 {
                     Student s = universityDic[student.Key];
                     listBoxStudent.Items.Add(s.Id + " - " + s.Status);

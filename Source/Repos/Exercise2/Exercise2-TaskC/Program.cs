@@ -16,13 +16,13 @@ namespace Exercise2_TaskC
             binTree.InsertItem("from");
             binTree.InsertItem("done");
             binTree.InsertItem("ants");
-            binTree.InsertItem("join");
+            binTree.InsertItem("joinnnn");
             binTree.InsertItem("idea");
             binTree.InsertItem("lime");
             binTree.InsertItem("waif");
 
             Console.WriteLine("Longest word: " + binTree.Longest());
-            Console.WriteLine("Ancestor word: " + binTree.Ancestor("idea", "waif"));
+            Console.WriteLine("Ancestor word: " + binTree.Ancestor("done", "lime"));
 
             Console.ReadKey();
         }

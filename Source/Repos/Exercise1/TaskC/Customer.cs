@@ -89,11 +89,13 @@ namespace TaskC
             int[] tempAges = new int[maxsize];
             topPosition = elem;
 
+            //from first to elem
             for (int i = 0; i < elem; i++)
             {
                 tempNames[i] = customerNames[i];
                 tempAges[i] = customerAges[i];
             }
+            //reverse the order of the elem
             for (int i = 0; i < elem; i++)
             {
                 topPosition--;

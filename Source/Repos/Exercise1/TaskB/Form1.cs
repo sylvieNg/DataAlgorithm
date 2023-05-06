@@ -24,10 +24,12 @@ namespace TaskB
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void buttonAdd_Click(object sender, EventArgs e)
         {
+            //validation on text box is not empty and list box should not have this value
             if (!string.IsNullOrWhiteSpace(textBox1.Text) && !listBox1.Items.Contains(textBox1.Text))
             {
+                //if elements in an array does not reach the max
                 if (!myCustomers.IsFull())
                 {
                     myCustomers.Enqueue(textBox1.Text);
@@ -42,11 +44,11 @@ namespace TaskB
                 //Clear the text box value
                 textBox1.Text = null;
             }
-                
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void buttonDelete_Click(object sender, EventArgs e)
         {
+            //if the array is not empty
             if (!myCustomers.IsEmpty())
             {
                 string name = myCustomers.Dequeue();
